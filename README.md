@@ -16,7 +16,6 @@ b.	Staff
 
 •	Apply leave
 
-
 •	Cancel leave (approved or pending status, cannot cancel if the on-leave date has passed)
 
 •	Check the leave status
@@ -25,7 +24,10 @@ b.	Staff
 
 
 c.	Leave Approver
+
 •	Approve or reject leave application(s)
+
 •	Can search a date and view the number of staff who applied leave on the specified date (this could provide more information on the approval of leave)
-The submitted system should be compiled and executed without errors. Besides, validation should be done wherever needed. Staff leave balances and leave records need to be stored in text files. Primary Key should be implemented, no duplication of same staff or leave records should be accepted.
+
+
 
